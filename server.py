@@ -1,6 +1,6 @@
 from fastmcp import FastMCP
 
-mcp = FastMCP("test")
+mcp = FastMCP("dqq")
 
 @mcp.tool()
 def qdd_instruction() -> str:
